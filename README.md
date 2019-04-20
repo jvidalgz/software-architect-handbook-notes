@@ -11,3 +11,7 @@
     * Architecture views are created from the architecture description, and each view covers one or more architecture conecerns of the stakeholders
 ### What makes up a software architecture?
 * A software system contains structures, and a software system is made up of one or more of them. It is the combination of these that forms the overall software architecture. A large software project may have multiple teams working on it each responsible for a particular structure
+### Software architecture is an abstraction
+* Is an abstraction of a software system
+* The structures of a software system consists of its elements. Software architecture concerns itself with defining and detailing the structures, their elements, and the relationships of those elements with each other.
+* Software architecture focuses on the public aspects of the elements, and how they interact with each other. For elemetns, this may take the form of their public interfaces. It does not deal with the private implementation details of the elements. While the behavior of the elements does not have to be exhaustively documented, care should be taken in understanding how elements have to be designed and written so that they can properly interact with each other.
