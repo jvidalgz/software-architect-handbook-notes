@@ -15,3 +15,7 @@
 * Is an abstraction of a software system
 * The structures of a software system consists of its elements. Software architecture concerns itself with defining and detailing the structures, their elements, and the relationships of those elements with each other.
 * Software architecture focuses on the public aspects of the elements, and how they interact with each other. For elemetns, this may take the form of their public interfaces. It does not deal with the private implementation details of the elements. While the behavior of the elements does not have to be exhaustively documented, care should be taken in understanding how elements have to be designed and written so that they can properly interact with each other.
+### Software architecture is about the important stuff
+* The software architecture consists of important design decisions that shape the system. It is made up of the structures and components that are significant to the quality, longevity, and usefulness of the system.
+* Consists of some of the earliest decisions that are made for a software system and some of the hardest to change.
+* The architecture should anticipate change, and be designed in such a way as to maximize the potential of adapting and evolving to this change.
