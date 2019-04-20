@@ -19,3 +19,9 @@
 * The software architecture consists of important design decisions that shape the system. It is made up of the structures and components that are significant to the quality, longevity, and usefulness of the system.
 * Consists of some of the earliest decisions that are made for a software system and some of the hardest to change.
 * The architecture should anticipate change, and be designed in such a way as to maximize the potential of adapting and evolving to this change.
+## Why is software architecture important?
+* The software architecture is the foundation of a software system
+* The software architecture is a series of decisions.
+* All software systems have an architecture
+* The greater the size and complexity of a software system, the more you will need a well thought-out architecture in order to success.
+* Software architecture provides a number of benefits when done properly, which greatly increase the chances that the software system will succeed
